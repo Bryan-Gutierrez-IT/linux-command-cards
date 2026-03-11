@@ -1,3 +1,4 @@
+![Validate Scripts](https://github.com/Bryan-Gutierrez-IT/command-cards/actions/workflows/validate.yml/badge.svg)
 # Command Cards
 
 A Linux automation project that analyzes Bash command history and generates collectible-style command cards as a static web dashboard.
