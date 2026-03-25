@@ -5,7 +5,6 @@ A Linux automation project that analyzes Bash command history and generates coll
 
 The system parses shell history, computes usage statistics using AWK, enriches commands with metadata from a CSV database, and generates styled HTML cards that can be viewed in a browser.
 
-This project demonstrates practical Linux scripting, text processing, automation, and deployment workflows.
 ---
 
 ## Demo
@@ -13,6 +12,8 @@ This project demonstrates practical Linux scripting, text processing, automation
 ![Command Cards Demo](docs/demo.png)
 
 ---
+
+This project demonstrates practical Linux scripting, text processing, automation, and deployment workflows.
 
 ## Features
 
